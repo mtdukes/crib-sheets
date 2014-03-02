@@ -5,13 +5,21 @@
 ###Common GitHub commands
 
 ####Creating a repo
+```Shell
 mkdir directory_name
+
 git init
+
 touch README.md
+
 git add README.md
+
 git commit -m 'first commit'
+
 git remote add origin https://github.com/username/directory_name.git
+
 git push origin master
+```
 
 ####Basic commands
 To add new files to the repository or add changed files to staged area:
@@ -57,6 +65,10 @@ $ git merge origin/master
 
 [SOURCE](http://stackoverflow.com/questions/11019839/how-to-use-github-using-terminal-commands)
 
-####Github basics
+###Github markdown
+
+[SOURCE](https://help.github.com/articles/markdown-basics)
+
+###Github basics
 * [Github for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oxo1ZxMiZHjClD)
 
