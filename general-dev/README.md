@@ -38,6 +38,8 @@ To commit unstaged but changed files:
 ```
 $ git commit -a
 ```
+This will ask for a commit message via VIM. Press "Esc", then ":" "w" "q" (w for write and q for quit).
+
 To push to a repository (say origin):
 ```
 $ git push origin
