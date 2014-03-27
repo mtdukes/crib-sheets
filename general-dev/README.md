@@ -67,6 +67,9 @@ $ git merge origin/master
 ```
 [SOURCE](http://stackoverflow.com/questions/11019839/how-to-use-github-using-terminal-commands)
 
+###Create .gitignore file
+[Useful instructions for creating gitignore file](http://www.gpickin.com/index.cfm/blog/git-for-dummies-using-gitignore-files-to-exclude-certain-files-and-folders)
+
 ###Github markdown
 
 [SOURCE](https://help.github.com/articles/markdown-basics)
