@@ -67,6 +67,12 @@ $ git merge origin/master
 ```
 [SOURCE](http://stackoverflow.com/questions/11019839/how-to-use-github-using-terminal-commands)
 
+###Merging message
+1 press "i"
+2 write your merge method
+3 press "esc"
+4 write ":wq" then press enter
+
 ###Create .gitignore file
 [Useful instructions for creating gitignore file](http://www.gpickin.com/index.cfm/blog/git-for-dummies-using-gitignore-files-to-exclude-certain-files-and-folders)
 
