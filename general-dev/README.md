@@ -69,8 +69,11 @@ $ git merge origin/master
 
 ###Merging message
 1 press "i"
+
 2 write your merge method
+
 3 press "esc"
+
 4 write ":wq" then press enter
 
 ###Create .gitignore file
