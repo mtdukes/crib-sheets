@@ -79,6 +79,11 @@ $ git merge origin/master
 ###Create .gitignore file
 [Useful instructions for creating gitignore file](http://www.gpickin.com/index.cfm/blog/git-for-dummies-using-gitignore-files-to-exclude-certain-files-and-folders)
 
+Remove file from repo you'd like to ignore
+```
+$ git rm -r --cached .DS_Store
+```
+
 ###Github markdown
 
 [SOURCE](https://help.github.com/articles/markdown-basics)
