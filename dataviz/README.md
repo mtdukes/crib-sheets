@@ -1,7 +1,7 @@
 # Dataviz
 A collection of things I want to remember about data visualization.
 
-### jqPlot
+## jqPlot
 [Documentation](http://www.jqplot.com/docs/files/usage-txt.html)
 
 A javascript library for displaying charts and graphs. Currently supported in Diesel.
@@ -10,12 +10,15 @@ A javascript library for displaying charts and graphs. Currently supported in Di
 * Check out additional documentation from JP re: Diesel integration
 * JQplot generator
 
-### Lyra
+## Lyra
 [Get it here](http://idl.cs.washington.edu/projects/lyra/)
 
 A visualization design environment from the University of Washington.
 
-### Exhibit
+## Exhibit
 [Documentation](http://simile-widgets.org/exhibit3/)
 
 JS library for displaying interactive search, tables and charts.
+
+## D3 Examples
+[Tons of examples](https://github.com/mbostock/d3/wiki/Gallery) from mbostock for using d3.

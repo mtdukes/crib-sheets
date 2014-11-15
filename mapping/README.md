@@ -16,7 +16,7 @@ Shapefiles are named according to [state and county FIPS codes](http://www.epa.g
 
 - [Small multiple maps using D3](http://blog.webkid.io/multiple-maps-d3/)
 
-- [Removing water shapes from maps](http://johnkeefe.net/water-begone)
+- [Removing water shapes from maps](http://johnkeefe.net/water-begone) (Note: difference layer needs all featues merged into one)
 
 - [Responsive maps with D3](http://eyeseast.github.io/visible-data/2013/08/26/responsive-d3/)
 
