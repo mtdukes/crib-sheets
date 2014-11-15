@@ -2,7 +2,12 @@
 A collection of resources for mapping stuff
 
 ##Tiger files
-[Tiger files from the Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-line.html) can provide the source material for a lot of mapping applications. Bulk download is available through the bureau's [FTP site](ftp://ftp2.census.gov/geo/tiger/TIGER2014), which is organized by [defined name definitions](ftp://ftp2.census.gov/geo/tiger/TIGER2014/2014_TL_Shapefiles_File_Name_Definitions.pdf).
+[Tiger files from the Census Bureau](https://www.census.gov/geo/maps-data/data/tiger-line.html) can provide the source material for a lot of mapping applications. Bulk download is available through the bureau's FTP site, which is organized by defined name definitions.
+
+- ftp://ftp2.census.gov/geo/tiger/TIGER2014
+
+- ftp://ftp2.census.gov/geo/tiger/TIGER2014/2014_TL_Shapefiles_File_Name_Definitions.pdf
+
 
 Shapefiles are named according to [state and county FIPS codes](http://www.epa.gov/envirofw/html/codes/state.html). For example, a shape file of water features in Wake County in North Carolina would be named [tl_2014_37183_areawater.zip](ftp://ftp2.census.gov/geo/tiger/TIGER2014/AREAWATER/tl_2014_37183_areawater.zip).
 
