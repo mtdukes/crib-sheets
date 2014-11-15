@@ -87,6 +87,7 @@ $ git rm -r --cached .DS_Store
 ###Github markdown
 
 [SOURCE](https://help.github.com/articles/markdown-basics)
+[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ###Github basics
 * [Github for beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1#awesm=~oxo1ZxMiZHjClD)
