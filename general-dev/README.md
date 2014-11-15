@@ -67,6 +67,18 @@ $ git merge origin/master
 ```
 [SOURCE](http://stackoverflow.com/questions/11019839/how-to-use-github-using-terminal-commands)
 
+Remove files
+```
+git rm file1.txt  
+git commit -m "remove file1.txt"  
+git push origin branch_name  
+```
+
+Force local changes on remote repository
+```
+git push origin dev --force
+```
+
 ###Merging message
 1 press "i"
 
